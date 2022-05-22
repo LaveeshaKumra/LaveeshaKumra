@@ -21,7 +21,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Full Stack Development and Mobile App Development as career.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LaveeshaKumra-blue?style=flat&logo=Linkedin&logoColor=white)](https://github.com/LaveeshaKumra)
+- :mailbox:How to reach me: [<a href="https://www.linkedin.com/in/laveesha-kumra-10a421166/">![Linkedin Badge](https://img.shields.io/badge/-LaveeshaKumra-blue?style=flat&logo=Linkedin&logoColor=white)](https://github.com/LaveeshaKumra)</a>
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -41,6 +41,28 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+### 🌟 Live Apps on Play store :
+
+https://play.google.com/store/apps/details?id=com.kidsrkids.school
+
+https://play.google.com/store/apps/details?id=com.quest.learnmongo
+
+https://play.google.com/store/apps/details?id=learn.mern.stack_softdroid
+
+https://play.google.com/store/apps/details?id=dev.ncert.solutions
+
+https://play.google.com/store/apps/details?id=com.ncertsolutions.class10
+
+https://play.google.com/store/apps/details?id=com.frontend.learning101
+
+https://play.google.com/store/apps/details?id=gk.quiz.enhanceyourknowledge
+
+https://play.google.com/store/apps/details?id=com.tarot.choosecard
+
+https://play.google.com/store/apps/details?id=com.coding.learnjava
+
+https://play.google.com/store/apps/details?id=dogfood.recipes.packedfood
 
 <!--
 ### :fire: My Stats :
