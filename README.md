@@ -10,8 +10,8 @@
 <img src="https://komarev.com/ghpvc/?username=LaveeshaKumra&style=flat-square&color=blue" alt=""/>
 -->
 <h1>
-  Hii there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hii there 👋🏻
+<!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/> -->
 </h1>
 
 
