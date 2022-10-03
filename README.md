@@ -17,9 +17,9 @@
 
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m currently working as a Associate QA Engineer and currently searching for a full stack opportunity in Flutter/Web Development.
+- :telescope: I’m currently working as a Associate QA Engineer and looking for a challenging career opportunity to expand my learning , knowledge and skills while making a significant contribution to the growth of company.
 
-- :seedling: Exploring Full Stack Development and Mobile App Development as career.
+- :seedling: Exploring Mobile App Development as personal interest.
 
 - :mailbox:How to reach me: [<a href="https://www.linkedin.com/in/laveesha-kumra-10a421166/">![Linkedin Badge](https://img.shields.io/badge/-LaveeshaKumra-blue?style=flat&logo=Linkedin&logoColor=white)](https://github.com/LaveeshaKumra)</a>
 
