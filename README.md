@@ -16,7 +16,7 @@
 
 
 ### :woman_technologist: About Me :
-- :telescope: I’m currently working as a Associate QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and looking for a challenging career opportunity to expand my learning , knowledge and skills while making a significant contribution to the growth of company.
+- :telescope: I’m currently working as a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and looking for a challenging career opportunity to expand my learning , knowledge and skills while making a significant contribution to the growth of company.
 
 - :seedling: Exploring Mobile App Development as personal interest.
 
