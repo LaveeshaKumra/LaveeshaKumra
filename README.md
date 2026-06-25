@@ -8,7 +8,6 @@
 <p align="center">
   <a href="https://laveesha-kumra-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/laveesha-kumra-10a421166"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/LaveeshaKumra"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
@@ -42,6 +41,7 @@ LangChain · Ollama · OpenAI APIs · Playwright MCP · Prompt Engineering
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat&logo=apachegroovy&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
@@ -78,6 +78,15 @@ LangChain · Ollama · OpenAI APIs · Playwright MCP · Prompt Engineering
 
 **🔌 REST API Automation Framework** · `Node.js · Postman · Jenkins · REST Assured` · Informatica
 > Built from scratch with **90% suite automation** and **95% code coverage**, validating 50+ endpoints with schema validation and payload assertions.
+
+**📱 Flutter Mobile Apps** · `Dart · Flutter` · Personal
+> A set of cross-platform mobile apps I built and **published on the Google Play Store** (since unpublished as I moved focus to QA & AI). Hands-on work in Dart, Flutter UI, state management, and app architecture.
+> - [farmer-app](https://github.com/LaveeshaKumra/farmer-app) · [shopkeeper](https://github.com/LaveeshaKumra/shopkeeper)
+> - [Ncert-class-6-app](https://github.com/LaveeshaKumra/Ncert-class-6-app) · [NCERT-class-10th-app](https://github.com/LaveeshaKumra/NCERT-CLass-10th-app) · [MySchoolApp-E-almanac](https://github.com/LaveeshaKumra/MySchoolApp-E-almanac)
+
+**🌐 Full-Stack Web Experiments** · `MongoDB · Express · React · Node.js` · Personal
+> Self-learning projects exploring the MERN stack and database fundamentals.
+> - [mern-stack-app](https://github.com/LaveeshaKumra/mern-stack-app) · [learn_mongoDB](https://github.com/LaveeshaKumra/learn_mongoDB)
 
 ---
 
