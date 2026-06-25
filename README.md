@@ -1,75 +1,102 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/laveesha-kumra-10a421166/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<!--
-<img src="https://komarev.com/ghpvc/?username=LaveeshaKumra&style=flat-square&color=blue" alt=""/>
--->
-<h1>
-  Hii there 👋🏻
-<!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/> -->
-</h1>
+<h1 align="center">Hi, I'm Laveesha Kumra 👋</h1>
 
+<p align="center">
+  <b>Senior QA Automation Engineer · SDET · AI Quality Engineering</b><br>
+  Building reliable, measurable quality systems for both traditional software and AI-powered applications.
+</p>
 
-### :woman_technologist: About Me :
-- :telescope: I’m currently working as a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and looking for a challenging career opportunity to expand my learning , knowledge and skills while making a significant contribution to the growth of company.
+<p align="center">
+  <a href="https://laveesha-kumra-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/laveesha-kumra-10a421166"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/LaveeshaKumra"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
-- :seedling: Exploring Mobile App Development as personal interest.
+---
 
-- :mailbox:How to reach me: [<a href="https://www.linkedin.com/in/laveesha-kumra-10a421166/">![Linkedin Badge](https://img.shields.io/badge/-LaveeshaKumra-blue?style=flat&logo=Linkedin&logoColor=white)](https://github.com/LaveeshaKumra)</a>
+### 🚀 About Me
 
+Senior QA Automation Engineer / SDET with **5+ years** building scalable automation frameworks, API testing solutions, and CI/CD quality pipelines across **Oracle, Adobe, and Informatica**.
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="angularjs" alt="angularjs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+Recently expanded into **AI Quality Engineering** — hands-on with LLM evaluation, RAG testing, DeepEval, hallucination detection, and automated AI validation workflows. I care about quality systems that are reliable, measurable, and production-ready.
 
-### 🌟 Live Apps on Play store :
+- 🔭 Currently focused on **AI/LLM testing** — DeepEval, RAG evaluation, and AI quality gates
+- 🧪 5+ years across **functional, API, E2E, performance, and microservices testing**
+- ⚙️ Comfortable from **Playwright & REST Assured** to **Jenkins, Docker, and Kubernetes**
+- 🌐 Portfolio → [laveesha-kumra-portfolio.vercel.app](https://laveesha-kumra-portfolio.vercel.app)
 
-https://play.google.com/store/apps/details?id=com.kidsrkids.school
+---
 
-https://play.google.com/store/apps/details?id=com.quest.learnmongo
+### 🤖 AI & LLM Quality Engineering
 
-https://play.google.com/store/apps/details?id=learn.mern.stack_softdroid
+```text
+DeepEval · LLM Evaluation · RAG Evaluation · Hallucination Detection
+Faithfulness & Answer Relevancy · AI Quality Gates · Prompt Regression
+LangChain · Ollama · OpenAI APIs · Playwright MCP · Prompt Engineering
+```
 
-https://play.google.com/store/apps/details?id=dev.ncert.solutions
+---
 
-https://play.google.com/store/apps/details?id=com.ncertsolutions.class10
+### 🛠️ Tech Stack
 
-https://play.google.com/store/apps/details?id=com.frontend.learning101
+**Languages**
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat&logo=apachegroovy&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-https://play.google.com/store/apps/details?id=gk.quiz.enhanceyourknowledge
+**Automation & Testing**
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-CC0000?style=flat&logo=testng&logoColor=white)
+![REST Assured](https://img.shields.io/badge/REST%20Assured-43A047?style=flat&logo=rest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white)
 
-https://play.google.com/store/apps/details?id=com.tarot.choosecard
+**CI/CD & Cloud**
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
-https://play.google.com/store/apps/details?id=com.coding.learnjava
+---
 
-https://play.google.com/store/apps/details?id=dogfood.recipes.packedfood
+### 📌 Featured Projects
 
-<!--
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LaveeshaKumra&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+**🧠 AI Evaluation Suite** · `DeepEval · Ollama · Pytest · GitHub Actions` · 2026
+> An AI testing framework for evaluating LLM and RAG applications using DeepEval and local LLMs via Ollama. Implements hallucination detection, faithfulness, and answer relevancy metrics, with AI quality gates and prompt regression workflows following production-style AI testing practices.
 
-### :fire: Top Languages :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaveeshaKumra&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
--->
+**⚡ Zero Downtime (ZDT) Validation Framework** · `Java · TestNG · Python · OCI` · Oracle
+> Parallel test orchestration with patch-event detection and automated stop/resume tracking to eliminate manual intervention — paired with an autonomous Jenkins pipeline that cut release cycle time by **60%**.
 
+**☁️ Cross-Platform Automation & Cloud Optimization** · `Selenium · Cucumber · Jenkins · AWS` · Adobe
+> Functional and automation testing for Adobe ColdFusion across 5+ platforms and clouds. Reduced regression runtime by **60%** and achieved **85% AWS cost reduction** through infrastructure automation.
 
+**🔌 REST API Automation Framework** · `Node.js · Postman · Jenkins · REST Assured` · Informatica
+> Built from scratch with **90% suite automation** and **95% code coverage**, validating 50+ endpoints with schema validation and payload assertions.
 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LaveeshaKumra&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaveeshaKumra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+</p>
+
+---
+
+### 🏆 Highlights
+
+- 🎤 Speaker, ColdFusion India CFSummit — *"HTMLTOPDF: Out with the Old, In with the New"*
+- 🏅 "Think Customer First" award at Informatica
+- 📜 ISTQB Certified Tester (CTFL)
+- 🎓 Bachelor of Computer Science — Chitkara University (GPA 9.23/10)
+
+---
+
+<p align="center"><i>Passionate about building production-ready quality systems for AI-powered applications.</i></p>
